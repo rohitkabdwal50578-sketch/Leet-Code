@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
