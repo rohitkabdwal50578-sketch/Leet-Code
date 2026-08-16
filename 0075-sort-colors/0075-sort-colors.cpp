@@ -1,6 +1,11 @@
 class Solution {
 public:
     void sortColors(vector<int>& arr) {
+
+
+        //DUTCH NATIONAL FLAG ALGORITHM
+
+        
         int low = 0;
         int mid = 0;
         int high = arr.size()-1;
