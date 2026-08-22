@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0048-rotate-image) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
