@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
