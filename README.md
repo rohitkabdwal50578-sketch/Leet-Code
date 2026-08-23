@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quicksort
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
