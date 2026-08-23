@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
