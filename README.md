@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0162-find-peak-element) |
 ## Bit Manipulation
 |  |
 | ------- |
