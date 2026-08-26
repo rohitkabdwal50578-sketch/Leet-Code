@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
