@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
