@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
