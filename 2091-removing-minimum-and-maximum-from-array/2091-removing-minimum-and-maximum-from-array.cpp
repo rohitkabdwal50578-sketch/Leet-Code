@@ -36,7 +36,7 @@ public:
         //agar last se max 5th index me hai aur min 4th index me hai to hame sabko delete karne ke lie min 4th index tak jana padega jo hai 
         //size - min ka mtlb hai --> minindex  element se end tak kitne element hain
 
-        return min(both,min(back,front));  //ab hame min number of deletion return karna h
+        return min({both,back,front});  //ab hame min number of deletion return karna h
         
     }
 };
