@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2951-find-the-peaks](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2951-find-the-peaks) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
 | ------- |
