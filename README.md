@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3978-unique-middle-element](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3978-unique-middle-element) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
+| [3978-unique-middle-element](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3978-unique-middle-element) |
 ## Pigeonhole Principle
 |  |
 | ------- |
