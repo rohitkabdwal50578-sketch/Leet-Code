@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0412-fizz-buzz) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
