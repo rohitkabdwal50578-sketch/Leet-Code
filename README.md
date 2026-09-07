@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0575-distribute-candies) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0575-distribute-candies) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
