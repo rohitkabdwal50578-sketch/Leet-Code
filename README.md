@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0575-distribute-candies) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0575-distribute-candies) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
