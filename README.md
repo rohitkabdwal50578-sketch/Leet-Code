@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2540-minimum-common-value) |
