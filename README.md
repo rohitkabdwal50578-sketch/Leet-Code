@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0412-fizz-buzz) |
+| [1189-maximum-number-of-balloons](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1392-longest-happy-prefix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0575-distribute-candies) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
 | [3978-unique-middle-element](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3978-unique-middle-element) |
 ## Pigeonhole Principle
