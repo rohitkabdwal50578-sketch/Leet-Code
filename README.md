@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
