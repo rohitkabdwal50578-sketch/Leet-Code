@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [2413-smallest-even-multiple](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3870-count-commas-in-range) |
@@ -275,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1051-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
