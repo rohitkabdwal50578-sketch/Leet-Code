@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
