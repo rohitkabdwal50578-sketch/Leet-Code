@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2418-sort-the-people](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2418-sort-the-people) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2540-minimum-common-value) |
 | [2951-find-the-peaks](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2951-find-the-peaks) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
+| [2418-sort-the-people](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Stack
