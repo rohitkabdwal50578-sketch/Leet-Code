@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [1952-three-divisors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2469-convert-the-temperature) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2951-find-the-peaks) |
 ## Backtracking
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2413-smallest-even-multiple) |
 ## Geometry
 |  |
@@ -312,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0206-reverse-linked-list) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
