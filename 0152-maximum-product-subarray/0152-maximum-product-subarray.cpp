@@ -12,11 +12,11 @@ public:
         
         
         for(int i = 0; i < n; i++) {
-            // prefix product to 1 if a zero found
+            // prefix product = 1 if a zero found
             if(prefix == 0) {
                 prefix = 1;
             }
-            // suffix product to 1 agar 0 mila h previously
+            // suffix product = 1 agar 0 mila h previously
             if(suffix == 0) {
                 suffix = 1;
             }
@@ -27,8 +27,8 @@ public:
             // suffix product from end
             suffix = suffix * arr[n - 1 - i];
             
-            // Update the maximum product 
-            ans = max(ans, max(prefix, suffix));
+            ans = max(ans, max(prefix, suffix));  //ans = max({ans, prefix, suffix});
+
         }
         
         return ans;
