@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0074-search-a-2d-matrix) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
