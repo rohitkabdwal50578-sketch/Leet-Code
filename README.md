@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
