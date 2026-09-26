@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0125-valid-palindrome) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0141-linked-list-cycle) |
