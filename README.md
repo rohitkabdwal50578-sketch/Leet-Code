@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2418-sort-the-people) |
+| [2716-minimize-string-length](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2716-minimize-string-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2540-minimum-common-value) |
+| [2716-minimize-string-length](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
