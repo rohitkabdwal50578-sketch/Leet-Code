@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1122-relative-sort-array) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1669-merge-in-between-linked-lists) |
 ## Recursion
 |  |
@@ -364,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
