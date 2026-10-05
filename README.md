@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1952-three-divisors](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/2235-add-two-integers) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/1669-merge-in-between-linked-lists) |
