@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0061-rotate-list) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0148-sort-list) |
 ## Monotonic Stack
 |  |
@@ -391,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rohitkabdwal50578-sketch/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
